@@ -14,7 +14,7 @@ https://iismail15.github.io/smart-data-systems/
 - Selected engineering projects
 - Technical discovery case study
 - Technical writing links
-- Microsoft Bookings discovery-call CTA
+- Calendly 15-min discovery-call CTA
 - Contact links
 
 The site is a single static `index.html` file with no build step required.
